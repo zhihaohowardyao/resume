@@ -1,0 +1,17 @@
+[
+{
+"name":"NETE",
+"time":"2015-present",
+"location":"Rockville MD",
+"title":"Management Analyst",
+"responsibility":[
+    {"Performs statistical analysis of large data sets to better understand trends, relationships between variables, and to formulate          predictive insights."},
+    {"Designs and builds publication-ready data visualizations using diverse sets of structured and unstructured data."},
+    {"Ensures research reports are created using credible qualitative and quantitative methodologies based on key insights and findings        from studies."},
+    {"Integrates client-provided elements, research findings, and publicly available information into analytical projects."}
+    ],
+"skills":[
+    "Data viz":
+    ]
+}
+]
